@@ -4,8 +4,12 @@
 }
 
 body{
+<<<<<<< HEAD
     background-color:darkgrey;
     color:white
+=======
+    background-color: beige;
+>>>>>>> javascript
 }
 
 h1{
@@ -14,4 +18,14 @@ h1{
 
 h2{
     background-color: darkblue;
+}
+
+.button {
+padding: 1em;
+margin: 1em;
+font-size: 1em;
+background-color: lightblue;
+color: black;
+border-radius: 10px;
+
 }
