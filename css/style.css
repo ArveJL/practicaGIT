@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: lightblue;
+    background-color: beige;
 }
 
 h1{
@@ -13,4 +13,14 @@ h1{
 
 h2{
     background-color: darkblue;
+}
+
+.button {
+padding: 1em;
+margin: 1em;
+font-size: 1em;
+background-color: lightblue;
+color: black;
+border-radius: 10px;
+
 }
